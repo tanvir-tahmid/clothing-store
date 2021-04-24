@@ -1,0 +1,19 @@
+body {
+  font-family: 'Open Sans Condensed';
+  padding: 20px 40px;
+  background-color: #0d1117;
+}
+
+b {
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+* {
+  box-sizing: border-box;
+  color: white;
+}
